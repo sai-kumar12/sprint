@@ -3,7 +3,7 @@ package com.SprintProject.entity;
 import java.math.BigDecimal;
 import java.util.List;
  
- 
+ //This is ram file
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
